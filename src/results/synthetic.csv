@@ -1,0 +1,12 @@
+case,method,cost
+greedy_myopic,nearest_neighbor,101.00
+greedy_myopic,regret_insertion,3.00
+both_optimal,nearest_neighbor,2.00
+both_optimal,regret_insertion,2.00
+cycle3,diagonal_start,30.00
+cycle3,relocate+swap,30.00
+cycle3,full_vnd,3.00
+mh_best_case,greedy,101.00
+mh_best_case,ILS,3.00
+mh_worst_case,optimum,2.00
+mh_worst_case,ILS,2.00

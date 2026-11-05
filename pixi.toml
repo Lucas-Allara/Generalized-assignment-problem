@@ -1,0 +1,8 @@
+[workspace]
+name = "generalized-assignment-problem"
+channels = ["conda-forge"]
+platforms = ["linux-64"]
+
+[dependencies]
+scip = "10.*"
+highs = "1.*"

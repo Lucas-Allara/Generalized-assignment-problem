@@ -1,0 +1,5 @@
+method,seeds,best_cost,worst_cost,mean_cost,cost_std,unassigned,mean_distance,mean_time_s
+best_constructive,1,718.00,718.00,718.00,0.00,0,0.65,0.00
++VND,1,695.50,695.50,695.50,0.00,0,0.63,0.15
++ILS,5,682.30,684.50,683.38,0.79,0,0.62,60.00
++LNS,5,682.00,682.80,682.42,0.30,0,0.62,60.00
